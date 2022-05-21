@@ -1,2 +1,2 @@
-# hashing-salt
+# Hashing Salt
 Hashing Salt with C#
